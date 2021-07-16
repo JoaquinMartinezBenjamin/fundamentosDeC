@@ -1,0 +1,5 @@
+1 Converse blanco 450.00 5
+2 Gucci rojo 1000.00 6
+3 Ferrato negro 500.00 5
+4 Prada gris 450.00 3
+5 Vans Blanco 700.00 4
